@@ -1,3 +1,23 @@
+# Weather App
+
+This is a responsive weather app that provides the temperature, exact time and weather conditions of the city, the user types in. This app is using Open Weather Map API to make calls to a RESTFUL API to return the current weather data. Also uses the Modern Javascript Fetch along with React hooks. Another feature is the dynamic background change based on the weather condition.
+
+## SneakPeek of Weather App
+
+### Opening screenshot
+
+!["Opening Screen"]()
+
+
+### Screenshots
+
+!["Screenshot 1"]()
+!["Screenshot 2"]()
+!["Screenshot 3"]()
+!["Screenshot 4"]()
+!["Responsive design"]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
