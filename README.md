@@ -6,16 +6,16 @@ This is a responsive weather app that provides the temperature, exact time and w
 
 ### Opening screenshot
 
-!["Opening Screen"]()
+!["Opening Screen"](https://github.com/NupurPrakash/weather/blob/master/docs/Screenshot0.png?raw=true)
 
 
 ### Screenshots
 
-!["Screenshot 1"]()
-!["Screenshot 2"]()
-!["Screenshot 3"]()
-!["Screenshot 4"]()
-!["Responsive design"]()
+!["Screenshot 1"](https://github.com/NupurPrakash/weather/blob/master/docs/Screenshot1.png?raw=true)
+!["Screenshot 2"](https://github.com/NupurPrakash/weather/blob/master/docs/Screenshot2.png?raw=true)
+!["Screenshot 3"](https://github.com/NupurPrakash/weather/blob/master/docs/Screenshot3.png?raw=true)
+!["Screenshot 4"](https://github.com/NupurPrakash/weather/blob/master/docs/Screenshot4.png?raw=true)
+!["Responsive design"](https://github.com/NupurPrakash/weather/blob/master/docs/Responsive%20design.png?raw=true)
 
 
 # Getting Started with Create React App
